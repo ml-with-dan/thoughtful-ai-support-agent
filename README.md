@@ -3,7 +3,7 @@
 A simple customer support AI agent assistant built with Streamlit and scikit-learn to answer questions about Thoughtful AI's agents using a hardcoded FAQ-style knowledge base.
 
 ## Objective
-Imagine you are working at Thoughtful AI. The team has tasked you with building a simple customer support AI Agent to assist users with basic questions about Thoughtful AI. The agent will use predefined, hardcoded responses to answer common questions. The full problem set can be found [here](https://thoughtfulautomation.notion.site/AI-Technical-Screen-d4d381a8c38d40fc9287cdb6c4f9992a)
+Imagine you are working at Thoughtful AI. The team has tasked you with building a simple customer support AI Agent to assist users with basic questions about Thoughtful AI. The agent will use predefined, hardcoded responses to answer common questions. The full problem set can be found [here](https://thoughtfulautomation.notion.site/AI-Technical-Screen-d4d381a8c38d40fc9287cdb6c4f9992a).
 
 ### Rules
 

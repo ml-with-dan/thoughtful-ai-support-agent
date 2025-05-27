@@ -78,7 +78,7 @@ def get_answer(user_question):
     similarity_score = similarities[0][best_match_idx]
     
     # If similarity is above threshold, return the best match; otherwise, fallback
-    if similarity_score >= 0.5:
+    if similarity_score >= 0.4:
         return qa_data["questions"][best_match_idx]["answer"]
     else:
         return generic_response

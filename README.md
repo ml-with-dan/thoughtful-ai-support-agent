@@ -1,6 +1,23 @@
 # Thoughtful AI Support Agent
 
-A simple customer support AI agent built with Streamlit and scikit-learn to answer questions about Thoughtful AI's agents.
+A simple customer support AI agent assistant built with Streamlit and scikit-learn to answer questions about Thoughtful AI's agents using a hardcoded FAQ-style knowledge base.
+
+## Objective
+Imagine you are working at Thoughtful AI. The team has tasked you with building a simple customer support AI Agent to assist users with basic questions about Thoughtful AI. The agent will use predefined, hardcoded responses to answer common questions.
+
+### Rules
+
+Your agent should follow these guidelines:
+
+- The agent must accept user input and answer the question like a conversational AI Agent.
+- The agent should retrieve the most relevant answer from a hardcoded set of responses about Thoughtful AI.
+- The agent should display the answer to the user in a user-friendly format.
+
+## Features
+- Answers common questions about Thoughtful AI Agents
+- Uses TF-IDF + cosine similarity to find the best answer
+- Graceful fallback for unknown questions
+- Simple web interface via Streamlit
 
 ## How to Run Locally
 
